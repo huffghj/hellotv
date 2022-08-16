@@ -1,2 +1,826 @@
 # hellotv
-海外华人专用免费的全球中文英文东南亚新闻体育卫星电视
+海外华人专用免费的全球中文英文东南亚新闻体育电影戏剧卫星电视
+节目如下：
+使用教程：下载APK，安装在安卓系统，作者会在管理系统里选择东南亚地区开通，注意：大陆地区不开通！
+龙详时代lungxiangtime_twn
+龙华经典台lunghuajingdian_twn
+龙华电影 Lunghua Movielunghuamovie_twn
+龙华洋片 Lunghua Westernlunghuawestern_twn
+龙华戏剧 Lunghua Dramalunghuaxiju_twn
+龙华偶像lunghuaidol_twn
+非凡新闻台feifannews_twn
+靖天国际台jingtianintl_twn
+靖天咨询台jingtianinfo_twn
+靖天卡通台jingtiancartoon_twn
+阿里郎 Arirangarirang_twn
+翡翠台jade_twn
+美食星球foodplanet_twn
+美亚电影meiyamovie_twn
+福建东南卫视fujian
+珠江台zhujiang
+爱尔达影剧台eltayingju_twn
+爱尔达体育2台eltasport2_twn
+爱尔达体育1台eltasport_twn
+爱奇艺 iQiyiQiyi
+湖南卫视 HunanHunan
+湖北卫视hubei
+深圳卫视shenzhen
+浙江卫视 （备用）zhejiang_twn
+浙江卫视 ZhejiangZhejiang
+江苏卫视 （备份）jiangsu_twn
+民视新闻台 FTV Newsftvnew_taiwan
+民视台湾台ftvtaiwan_twn
+民视 HDftvhd_taiwan
+欢喜台 HD （Hua Hee Tai）Huahee
+星空电影台xingkong
+星卫电影xingwei_movie
+无线财经资讯台tvbcaijing_twn
+广西卫视guangxi
+广东卫视guangdongweishi_twn
+广东南方卫视nanfang_twn
+年代新闻niandainews_twn
+好消息 2good2_twn
+大爱1台daai_twn
+四川卫视sichuan_twn
+台视 TTV HDttv_taiwan
+双星 ShuangXingShuangxing
+卫视中文台 Star Movies Chineseweishichinese_twn
+博斯高球2 HDbosigolf2_twn
+博斯运动 2bosisport2_twn
+博斯运动 1bosisport1_twn
+博斯网球 HDbositennis_twn
+华视 CTS HDctshd_twn
+华丽台 HD （Wah Lai Toi）Wlt
+北京卫视beijing
+凤凰香港hkphoenix_twn
+凤凰资讯phoenixinfo_hd
+凤凰卫视phoenixtv_hd
+公视 CTVctv_taiwan
+八大综合 GTV Metrobadazhonghe
+全佳 Quan JiaQuanjia
+亚洲旅游 TLC Asiatlc_twn
+中视新闻台zhongshinews_twn
+中视 HDzhongshihd_twn
+中天新闻 HDctinews
+中天娱乐 CTI Entertaimentctient
+中天亚洲台ctiasia_twn
+东森超视ettvsuper
+东森财经新闻 ETTV Businessettvcaijing_twn
+东森洋片 ETTV Westernettvwestern
+东森新闻 ETTV Newsettvnews
+东森戏剧 ETTV Dramaettvdrama
+东方卫视dongfangweishi_twn
+三立综合 Sanli Metrosanlizhonghe
+三立戏剧台sanlixiju_twn
+テレビ東京 Tokyo TVtokyotv_japan
+tpbstpbs_pat
+itv 2itv2_antik
+iNews 新闻台inews_twn
+iNews TVInewstv
+Zee TV HDZeetvhd
+Zee BusinessZeebusiness
+Zee ActionZeeaction
+YTNytn_korea
+YTN Scienceytnscience_korea
+YTN Koreanytnkorean_korea
+YTN DMBytndmb_korea
+Workpointworkpoint_pat
+Warner TVWarnerTV
+WarnaWarna
+WWEWwe
+Viu6viusix_twn
+Viuviu_twn
+Vision PrimeVisionPrime
+VasanthamVasantham
+VTV6 HDvtv6_viet
+VTV4 HDvtv4_viet
+VTV3 HDvtv3_viet
+VTV1 HDvtv1_viet
+VTC3vtc3_viet
+TvoneTvone
+TvNTVN
+True Premium 2 HDtruepre2_pat
+True Premium 1 HDtruepre1_pat
+TranstvTranstv
+Trans 7Trans7_eko
+Tnn24tnn24_pat
+ThrillThrill
+Thairaththairath_pat
+Tawaf TVTawafTV
+TVRI NationalTVRI
+TVMUTVMU_eko
+TVBS News 新闻台tvbs_n
+TVBS HDtvbs
+TVB 星河台  Xing HeXinhe
+TVB 星河tvbxinhe_twn
+TV9TV9
+TV9 IndonesiaTV9_eko
+TV8TV8
+TV3TV3
+TV3 backupTV3_backup
+TV2TV2
+TV1TV1
+TPTVtptv_pat
+TOKYOMXtokyomx_japan
+TLCTlc
+SuriaSuria
+Suria SDSuriah264
+Supersports 4Assp4
+Supersports 3Assp3
+Supersports 2Assp2
+Supersports 1Assp1
+Sunnah HDsunnah_mido
+Sun Musicsunmusic_raj
+Starmaa HDstarmaa_raj
+Star VijayStarvijay
+Star Vijay Indiastarvijay_raj
+Sony Yay Tamilsonyyaytam_raj
+Sony Six HDsonysix_raj
+Sony HDSetOne
+Skysports Arenatiankongarena
+Skynewsskynews_antik
+SPO TV GPSpotvgp
+SCTVSctv
+SCMWeishimovie
+RTM Sports HDRtmsport
+RIARia
+RHK 32rhk32_twn
+RHK 31rhk31_twn
+RCTIRcti
+Quran HDquran_mido
+PrimaPrima
+Pick TVpicktv_antik
+PPTV Thailand1pptv_pat
+OneOne
+OasisOasis
+NickelodeonNickelodeon
+Nick JrNickjr
+News 18 Tamilnews18tamil_raj
+Newnew_pat
+Net TVNetTV
+Nationnation_pat
+Natgeo_HDnatgeohd_twn
+Natgeo Wild Tamilnatgeowildtamil_raj
+NatGeo_Wild HDnatgeowild_twn
+NatGeo Wild HDNatgeowild
+NatGeo Tamilnatgeotamil_raj
+NatGeo HDNatgeo
+NTV7NTV7
+NHKBS1nhkbs1_japan
+NHK-Enhke_japan
+NHK Worldnhkworld_japan
+Muslim TVMuslimTV
+Music TVMusicTV
+Movies Now HDmoviesnow_raj
+More4more4_antik
+Monomono_pat
+Momo TVmomo1_twn
+MiaoMiMiaoMi
+Metro TVmetrotv_eko
+Makkal TVMakkaltv
+Lifestyle&FashionLifestyle
+Kompass TVKompass
+Kids TVKidsTV
+KiX HDKiX
+KTV UKktvuk_tamil
+KBS WorldKBS
+KBS World 24kbsworld24_korea
+Jak TVJakTV
+JTVJTV_eko
+JET 綜合jettv_japan
+J the Kpopjthekpop_korea
+J 5j5_twn
+J 2j2_twn
+Indosiar HDIndosiar
+Hollywood Movieshollywoodmovies_twn
+HistoryHistory
+HTV9htv9_viet
+HTV7htv7_viet
+HGTVHGTV
+HBO HDHbo
+Goshop ChGoshopch
+GmmOnegmmone_pat
+Gmm Channelgmmchannel_pat
+GTVGtv
+France 24france24_twn
+Fox Newsfoxnews_twn
+Fashion TVfashiontv_twn
+Euronewseuronews_antik
+EntertainEntertain
+EYETV 旅游eyetvtravel_twn
+EYETV 戏剧eyetvxiju_twn
+EWTNEwtn
+EBS2ebs2_korea
+EBS Kidsebskids_korea
+EBS 1ebs1_korea
+Drama SangatDsangat
+Discovery_Sciencediscoverysc_twn
+Discovery Turbodiscoveryturbo_twn
+Discovery Kids Tamildiscoverykidtamil_raj
+Discovery HDdiscoveryhd_twn
+Discovery Asiadiscoverytwn_twn
+Daai TVDaaiTV
+DW (Deutsch)dw_twn
+Color HDColorhd
+CitraCitra
+Channel UChannelU
+Channel 7 Thailandch7_pat
+Channel 5Channel5HD
+Channel 5 Thailandch5_pat
+Channel 4channel4_antik
+Ch 8ch8_pat
+CeriaCeria
+Celestial Movies HDCelestialindo
+Celestial Movies HDCelestial
+Celestial ClassicCelestial2
+Cartoon NetworkCn
+CNNcnn_twn
+CNN Internationalcnn_antik
+CNAcna
+CINEMAXcinemax_twn
+CIci_twn
+CHC 家庭影院chcfamily
+CGTNCGTN
+CGNTVcgntv_korea
+CCTV-9 记录 HDcctv9hd
+CCTV-8 电视剧 HDcctv8hd
+CCTV-7 军事农业cctv7
+CCTV-5+ 体育赛事 HDcctv5plus
+CCTV-5 体育频道cctv5
+CCTV-4 中文国际Cctv4
+CCTV-3 综艺 HDcctv3
+CCTV-2 财经cctv2
+CCTV-15 音乐cctv15
+CCTV-14 少儿cctv14
+CCTV-13 新闻频道cctv13
+CCTV-12 社会与法cctv12
+CCTV-11 戏曲cctv11
+CCTV-10 科教 HDcctv10hd
+CCTV-1 综合 HDcctv1
+CBeebiesCbeebies
+CBSN HDcbsn_glo
+CBS HDcbshd_glo
+BooBoo
+Bloomberg Newsbloomberg_twn
+BernamaBernama
+Berita SatuBeritaSatu_eko
+Baby TVbabytv_twn
+Baby TV EngBabytv
+BT Sports 2beetwo
+BT Sports 1beeone
+BSフジ BS Fujibsfuji_japan
+BSジャパン 181bs181_japan
+BBC World Newsbbcworldnews_antik
+BBC World Newsbbcnews_twn
+BBC Earth Tamilbbcearthtam_raj
+BBC Earth Lifestylebbclifestyle_twn
+BBC Earth HDbbcearth_twn
+BBC 2bbc2_antik
+BBC 1bbc1_antik
+Axn HDAxn
+AwaniAwani
+Astro GolfAstrogolf
+Asianet Newsasianetnews_raj
+Arirang HDarirang_korea
+ArenaArena
+Apps TVappongoogle_korea
+AnimaxAnimax
+Animal_Planetanimalplanet_twn
+Animal Planet (Eng)AnimalPlanet
+AnTVAntv
+Amarinamarin_pat
+AlQuran AlKareemAlQuran
+Al-Jazeeraaljazeera_twn
+Al-HijrahAlhijrah
+AXN Taiwanaxn_twn
+AOD HDAodHD
+AOD 511Aod350
+AFC 亚洲旅游台asiatravel_twn
+AECAEC
+ABC Newsabcnews_glo
+NHKWorldnhkworld_japan
+BSフジBSFujibsfuji_japan
+NHKBS1nhkbs1_japan
+テレビ東京TokyoTVtokyotv_japan
+NHK-Enhke_japan
+CGNTVcgntv_korea
+EBSKidsebskids_korea
+JtheKpopjthekpop_korea
+AlltheKpopallthekpop_korea
+AppsTVappongoogle_korea
+YTNDMBytndmb_korea
+YTNKoreanytnkorean_korea
+YTNScienceytnscience_korea
+KBSWorld24kbsworld24_korea
+EBS2ebs2_korea
+EBS1ebs1_korea
+CBScbs_korea
+YonhapNewsyonhapnews_korea
+ArirangHDarirang_korea
+HTV9htv9_viet
+HTV7htv7_viet
+VTV6HDvtv6_viet
+VTV4HDvtv4_viet
+VTV3HDvtv3_viet
+VTV1HDvtv1_viet
+TPTVtptv_pat
+Newnew_pat
+Tnn24tnn24_pat
+Nationnation_pat
+GmmChannelgmmchannel_pat
+Workpointworkpoint_pat
+tpbstpbs_pat
+Thairaththairath_pat
+Monomono_pat
+GmmOnegmmone_pat
+Ch8ch8_pat
+Channel7Thailandch7_pat
+Channel5Thailandch5_pat
+Channel3Thailandch3_pat
+Channel4channel4_antik
+Euronewseuronews_antik
+itv2itv2_antik
+itv1itv1_antik
+PickTVpicktv_antik
+Skynewsskynews_antik
+More4more4_antik
+CBBCcbbc_antik
+BBC2bbc2_antik
+BBC1bbc1_antik
+CNNInternationalcnn_antik
+CartoonNetworkCn
+AnimaxAnimax
+东森幼幼YoyoTVyoyo_twn
+MiaoMiMiaoMi
+BabyTVbabytv_twn
+靖天卡通台jingtiancartoon_twn
+CBeebiesCbeebies
+KidsTVKidsTV
+BoomerangBoomerang
+BabyTVEngBabytv
+NickelodeonNickelodeon
+CGTNCGTN
+BloombergNewsbloomberg_twn
+BBCWorldNewsbbcnews_twn
+CNBCcnbc_twn
+CNNcnn_twn
+FoxNewsfoxnews_twn
+CBSNHDcbsn_glo
+CBSHDcbshd_glo
+东森财经新闻ETTVBusinessettvcaijing_twn
+ABCNewsabcnews_glo
+DW(Deutsch)dw_twn
+France24france24_twn
+TLCTlc
+AnimalPlanet(Eng)AnimalPlanet
+HGTVHGTV
+AFC亚洲旅游台asiatravel_twn
+亚洲旅游TLCAsiatlc_twn
+美食星球foodplanet_twn
+DiscoveryHDdiscoveryhd_twn
+BBCEarthLifestylebbclifestyle_twn
+BBCEarthHDbbcearth_twn
+AsiaTravelasiatravel_twn
+HistoryHistory
+CIci_twn
+DiscoveryAsiadiscoverytwn_twn
+NatGeoWildHDNatgeowild
+Discovery_Sciencediscoverysc_twn
+DiscoveryTurbodiscoveryturbo_twn
+Animal_Planetanimalplanet_twn
+NatGeo_WildHDnatgeowild_twn
+Natgeo_HDnatgeohd_twn
+NatGeoHDNatgeo
+CelestialMoviesHDCelestialindo
+tvNMovieTvnmovie
+AxnHDAxn
+HBOHDHbo
+ThrillThrill
+SCMWeishimovie
+星空电影台xingkong
+星卫电影xingwei_movie
+OneOne
+WarnerTVWarnerTV
+美亚电影meiyamovie_twn
+StarMoviesHDstarmovies_raj
+MoviesNowHDmoviesnow_raj
+卫视中文台StarMoviesChineseweishichinese_twn
+CelestialClassicCelestial2
+龙详时代lungxiangtime_twn
+龙华洋片LunghuaWesternlunghuawestern_twn
+龙华电影LunghuaMovielunghuamovie_twn
+东森洋片ETTVWesternettvwestern
+东森电影ETTVMovieettvmovie
+CINEMAXcinemax_twn
+HollywoodMovieshollywoodmovies_twn
+StarmaaHDstarmaa_raj
+StarVijayIndiastarvijay_raj
+VijaySupervijaysuper_raj
+SonyYayTamilsonyyaytam_raj
+DiscoveryKidsTamildiscoverykidtamil_raj
+NatgeoWildTamilnatgeowildtamil_raj
+NatGeoTamilnatgeotamil_raj
+AsianetNewsasianetnews_raj
+ZeeNewsZeenews
+ZeeTVHDZeetvhd
+ZeeActionZeeaction
+MakkalTVMakkaltv
+ThanthiTVthanthitv
+ZeeBusinessZeebusiness
+SunMusicsunmusic_raj
+StarVijayStarvijay
+SunTVHDSuntv
+爱尔达体育2台eltasport2_twn
+爱尔达体育1台eltasport_twn
+EYETV戏剧eyetvxiju_twn
+EYETV旅游eyetvtravel_twn
+博斯网球HDbositennis_twn
+博斯高球2HDbosigolf2_twn
+博斯运动2bosisport2_twn
+博斯运动1bosisport1_twn
+阿里郎Arirangarirang_twn
+好消息2good2_twn
+纬来体育台videolandsport
+年代新闻niandainews_twn
+靖天咨询台jingtianinfo_twn
+靖天国际台jingtianintl_twn
+龙华经典台lunghuajingdian_twn
+龙华戏剧台lunghuaxiju_twn
+龙华戏剧LunghuaDramalunghuaxiju_twn
+非凡新闻台feifannews_twn
+大爱1台daai_twn
+东森戏剧ETTVDramaettvdrama
+东森综合ETTVMetroettvzhonghe
+三立综合SanliMetrosanlizhonghe
+八大综合GTVMetrobadazhonghe
+八大第一GTVFirstbadafirst
+民视台湾台ftvtaiwan_twn
+民视新闻台FTVNewsftvnew_taiwan
+民视HDftvhd_taiwan
+中视新闻台zhongshinews_twn
+中视HDzhongshihd_twn
+台视TTVHDttv_taiwan
+中天亚洲台ctiasia_twn
+中天综合CTIMetroctizhonghe
+中天新闻HDctinews
+TVBSHDtvbs
+TVBSNews新闻台tvbs_n
+SPOTVGPSpotvgp
+Arena2Arena2
+ArenaArena
+CCTV-5+体育赛事HDcctv5plus
+CCTV-5体育频道cctv5
+SkysportsF1tiankongf1
+SkysportsCrickettiankongcricket
+SkysportsArenatiankongarena
+BTESPNbtespn
+BTSports3beethree
+BTSports1beeone
+SonySixHDsonysix_raj
+SonyTen3ten3_raj
+SonyTen1ten1_raj
+Beinsports2HDBein2hd
+AstroGolfAstrogolf
+TruePremium1HDtruepre1_pat
+Supersports4Assp4
+Supersports3Assp3
+Supersports2Assp2
+东方卫视dongfangweishi_twn
+CHC家庭影院chcfamily
+凤凰资讯phoenixinfo_hd
+凤凰卫视phoenixtv_hd
+湖北卫视hubei
+广西卫视guangxi
+珠江台zhujiang
+北京卫视beijing
+广东卫视guangdongweishi_twn
+广东南方卫视nanfang_twn
+福建东南卫视fujian
+深圳卫视shenzhen
+江苏卫视(备份)jiangsu_twn
+浙江卫视(备用)zhejiang_twn
+浙江卫视ZhejiangZhejiang
+湖南卫视(备份)hunan_twn
+湖南卫视HunanHunan
+CCTV-15音乐cctv15
+CCTV-14少儿cctv14
+CCTV-12社会与法cctv12
+CCTV-11戏曲cctv11
+CCTV-10科教HDcctv10hd
+CCTV-9记录HDcctv9hd
+CCTV-4中文国际(备用)cctv4
+CCTV-4中文国际Cctv4
+CCTV-3综艺HDcctv3
+CCTV-2财经cctv2
+CCTV-1综合HDcctv1
+Viu6viusix_twn
+VIUTV1viu1_twn
+RHK31rhk31_twn
+Viuviu_twn
+TVB星河tvbxinhe_twn
+凤凰香港hkphoenix_twn
+J2j2_twn
+iNews新闻台inews_twn
+翡翠台jade_twn
+EntertainEntertain
+MusicTVMusicTV
+MuslimTVMuslimTV
+VisionPrimeVisionPrime
+TawafTVTawafTV
+AlQuranAlKareemAlQuran
+EWTNEwtn
+DaaiTVDaaiTV
+iNewsTVInewstv
+GTVGtv
+TVMUTVMU_eko
+SCTVSctv
+Trans7Trans7_eko
+MNCTVMnctv
+TV9IndonesiaTV9_eko
+AnTVAntv
+IndosiarHDIndosiar
+BeritaSatuBeritaSatu_eko
+KompassTVKompass
+TVRINationalTVRI
+VasanthamVasantham
+ChannelUChannelU
+SuriaSuria
+SuriaSDSuriah264
+Channel8Channel8HD
+Channel5backupChannel5HD
+Channel5Channel5HD
+KiXHDKiX
+AOD511Aod350
+AODHDAodHD
+爱奇艺iQiyiQiyi
+TVB星河台XingHeXinhe
+小太阳Xiaotaiyang
+双星ShuangXingShuangxing
+全佳QuanJiaQuanjia
+欢喜台HD(HuaHeeTai)Huahee
+华丽台HD(WahLaiToi)Wlt
+AECAEC
+KBSWorldKBS
+TvNTVN
+Oh!kOhk
+SonyHDSetOne
+GoshopChGoshopch
+SunnahHDsunnah_mido
+QuranHDquran_mido
+DramaSangatDsangat
+CitraCitra
+CeriaCeria
+OasisOasis
+RTMSportsHDRtmsport
+Al-HijrahAlhijrah
+PrimaPrima
+BernamaBernama
+AwaniAwani
+RIARia
+WarnabackupWarna_backup
+WarnaWarna
+TV9TV9
+TV8TV8
+NTV7NTV7
+TV3backupTV3_backup
+TV3TV3
+TV1TV1
+深圳卫视shenzhen
+日テレ1nippontv_japan
+MBC-1mbc_korea
+SBS1sbs_korea
+LTVWesternMovieslunghuawestern_twn
+StarMoviesChinese1xingkong
+LTVWesternMovielunghuawestern_twn
+StarMovieChinesexingwei_movie
+Channel_News_Asiacna
+HBO_SIGNATUREhbosignature_twn
+东森财经新闻1ettvcaijing_twn
+HBOSIGNATUREhbosignature_twn
+EltaDramaeltadrama_twn
+HBOSignaturehbosignature_twn
+东南卫视fujian
+VTC3vtc3_viet
+BBCWorldNewsbbcworldnews_antik
+Al-Jazeeraaljazeera_twn
+龙华偶像lunghuaidol_twn
+东森新闻ETTVNewsettvnews
+三立戏剧台sanlixiju_twn
+公视CTVctv_taiwan
+四川卫视sichuan_twn
+CCTV-8电视剧HDcctv8hd
+CCTV-7军事农业cctv7
+Lifestyle&FashionLifestyle
+NetTVNetTV
+JakTVJakTV
+TvoneTvone
+TranstvTranstv
+RCTIRcti
+テレビ東京1tokyotv_japan
+东森财经新闻ettvcaijing_twn
+FashionTVfashiontv_twn
+WWEWwe
+MetroTVmetrotv_eko
+纬来体育台videolandsport
+湖南卫视 （备份）hunan_twn
+广东体育 GDSportsgdsports
+八大第一 GTV Firstbadafirst
+八大戏剧 GTV Dramabadadrama
+中天综合 CTI Metroctizhonghe
+东森综合 ETTV Metroettvzhonghe
+东森电影 ETTV Movieettvmovie
+东森幼幼 Yoyo TVyoyo_twn
+tvN MovieTvnmovie
+itv 1itv1_antik
+Zee TamilZeetamil
+Zee NewsZeenews
+Zee Cinema HDZeecinemahd
+Yonhap Newsyonhapnews_korea
+Warna backupWarna_backup
+Vijay Supervijaysuper_raj
+VIUTV1viu1_twn
+TVBS 欢乐台 （备份）tvbshuanle_twn
+Sun TV HDSuntv
+Starmaa Movies HDstarmaamovies_raj
+Star Movies HDstarmovies_raj
+Sony Ten 3ten3_raj
+Sony Ten 2ten2_raj
+Sony Ten 1ten1_raj
+Skysports Golftiankonggolf
+Skysports F1tiankongf1
+Skysports EPLtiankongepl
+Skysports Crickettiankongcricket
+Russia Timesrussiantime_twn
+Picture HDNpicture
+Oh!kOhk
+MNC TVMnctv
+MCOT HD Thailand-1mcot_pat
+HitsHits
+Hits MovieHitsmovie
+History Tamilhistorytam_raj
+HBO_HITShbohits_twn
+HBO_HDhbohd_twn
+HBO Hits HDHbohits
+Freesportsfreesports_antik
+Fight SportsFightsports
+Discovery World Tamildiscoveryworldtam_raj
+Channel 8Channel8HD
+Channel 3 Thailandch3_pat
+Cartoon Network Tamilcntamil_raj
+CNBCcnbc_twn
+CNA Japancna_japan
+CCTV-6cctv6
+CCTV-4 中文国际（备用）cctv4
+CBScbs_korea
+CBBCcbbc_antik
+BoomerangBoomerang
+Beinsports 2 HDBein2hd
+BT Sports 3beethree
+BT ESPNbtespn
+Asianetasianet_raj
+Arena2Arena2
+All the Kpopallthekpop_korea
+BSジャパン181bs181_japan
+JET綜合jettv_japan
+YTNytn_korea
+MCOTHDThailand-1mcot_pat
+MomoTVmomo1_twn
+CNAcna
+RussiaTimesrussiantime_twn
+AXNTaiwanaxn_twn
+CCTV-6cctv6
+HBO_HDhbohd_twn
+StarmaaMoviesHDstarmaamovies_raj
+CartoonNetworkTamilcntamil_raj
+HistoryTamilhistorytam_raj
+DiscoveryWorldTamildiscoveryworldtam_raj
+PictureHDNpicture
+ColorHDColorhd
+KTVUKktvuk_tamil
+News18Tamilnews18tamil_raj
+爱尔达影剧eltayingju_twn
+爱尔达影剧台eltayingju_twn
+东森超视ettvsuper
+八大戏剧GTVDramabadadrama
+华视CTSHDctshd_twn
+中天娱乐CTIEntertaimentctient
+TVBS欢乐台(备份)tvbshuanle_twn
+SkysportsGolftiankonggolf
+SkysportsEPLtiankongepl
+BTSports2beetwo
+SonyTen2ten2_raj
+TruePremium2HDtruepre2_pat
+Supersports1Assp1
+CCTV-13新闻频道cctv13
+RHK32rhk32_twn
+无线财经资讯台tvbcaijing_twn
+J5j5_twn
+JTVJTV_eko
+CelestialMoviesHDCelestial
+BooBoo
+TV2
+HBO_Signature-1hbosignature_twn
+DaAiTVdaai_twn
+CNAJapancna_japan
+TOKYOMXtokyomx_japan
+BBCEarthTamilbbcearthtam_raj
+Asianetasianet_raj
+ZeeCinemaHDZeecinemahd
+ZeeTamilZeetamil
+纬来育乐videolandyule
+纬来综合台videolandzonghe
+纬来精彩videolandspecial_twn
+纬来电影台videolandmovie_twn
+纬来日本台videolandjapan_twn
+纬来戏剧台videolandxiju_twn
+珍珠台pearl_twn
+爱尔达综合台eltazonghe_twn
+江苏卫视 JiangsuJiangsu
+小太阳Xiaotaiyang
+台视综合台ttvhe_twn
+卫视电影台weishimovie_twn
+博斯无限bosiunlimited_twn
+八大娱乐 GTV Entertainmentbadaentertain
+亚洲美食asiafood_twn
+三立都会台sanlidouhui_zero
+三立台湾 Sanli Taiwansanlitaiwan_zero
+テレビ朝日 Asahi TVasahitv_japan
+VTC7vtc7_viet
+VTC1vtc1_viet
+Tutor UPSRTutor_upsr
+Tutor SPMTutor_spm
+Tutor PT3Tutor_pt3
+Travelxptravelxp_raj
+Times Nowtimesnow_raj
+Thanthi TVthanthitv
+Thai Thaithaithai_pat
+TVIQTviq
+Supersports 5Assp5
+Supersports 4 backupAssp4_backup
+Supersports 3 backupAssp3_backup
+Supersports 2 backupAssp2_backup
+Supersports 1 backupAssp1_backup
+Sun TV Indiasuntv_raj
+Sonic Tamilsonictamil_raj
+Skysports Footballtiankongfootball
+Skysports Actiontiankongaction
+SBS Plussbsplus_korea
+Ria backupRia_pye
+RaniaRania
+RCTI backupRcti_backup
+Pogo Tamilpogotamil_raj
+O ChannelOChannel_eko
+Nick Tamilnicktamil_raj
+Nbtnbt_pat
+NauraNaura
+NTV7 backupNtv7_backup
+NHKBSプレミア Premiumnhkpremium_japan
+NHK-総合-2nhkg_japan
+NHK Oaskanhkosaka_japan
+NBA TVnbatv_zero
+Marvel HD Tamilmarveltamil_raj
+MTV Livemtv_twn
+MTV HDmtvhd_raj
+Jade Backupjade1_twn
+Hugama Tamilhugamatam_raj
+GoshopGoshop2
+Eurosports HDfoxsport3hd_twn
+EBS Plus2ebsplus2_korea
+Disney Taiwandisneytwn_twn
+Disney Jr Tamildisneyjrtamil_raj
+Disney Channel Tamildischtamil_raj
+Discovery Tamildiscoverytamil_raj
+Colors Tamil HDcolorstam_raj
+Channel 8 backupChannel8_backup
+CatchPlay 电影台catchplay_twn
+CHC 动作电影chcaction
+Boomerang Taiwanboomerang_twn
+Bollywood OneBollyone
+BS-TBSbstbs_japan
+AuraAura
+Alhijrah_backupAlhijrah_backup
+NHKBSプレミアPremiumnhkpremium_japan
+テレビ朝日AsahiTVasahitv_japan
+Nbtnbt_pat
+PPTVThailand1pptv_pat
+CatchPlay电影台catchplay_twn
+BollywoodOneBollyone
+ColorsTamilHDcolorstam_raj
+三立都会台sanlidouhui_zero
+三立台湾SanliTaiwansanlitaiwan_zero
+八大娱乐GTVEntertainmentbadaentertain
+SkysportsFootballtiankongfootball
+SkysportsActiontiankongaction
+EurosportsHDfoxsport3hd_twn
+NBATVnbatv_zero
+江苏卫视JiangsuJiangsu
+JadeBackupjade1_twn
+RCTIbackupRcti_backup
+Channel8backupChannel8_backup
+TutorPT3Tutor_pt3
+RaniaRania
+AuraAura
+テレビ朝日1asahitv_japan
+博斯无限bosiunlimited_twn
+TutorUPSRTutor_upsr
+TutorSPMTutor_spm
