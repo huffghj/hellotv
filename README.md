@@ -1,7 +1,7 @@
 # hellotv
 海外华人专用免费的全球中文英文东南亚新闻体育电影戏剧卫星电视
 节目如下：
-使用教程：下载APK，安装在安卓系统，作者会在管理系统里选择东南亚地区开通，注意：大陆地区不开通！
+使用教程：下载APK，安装在安卓系统，注意：大陆地区不开通！大陆不能使用！
 龙详时代lungxiangtime_twn
 龙华经典台lunghuajingdian_twn
 龙华电影 Lunghua Movielunghuamovie_twn
